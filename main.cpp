@@ -1,5 +1,5 @@
 #include "menu.hpp"
-#include "status_bar.hpp"
+#include "window.hpp"
 
 int main() {
   return 0;
