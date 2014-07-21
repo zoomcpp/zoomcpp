@@ -8,6 +8,7 @@ MainView::~MainView() {
 }
 
 bool MainView::v_open() {
+  // 
   return false;
 }
 
